@@ -16,7 +16,7 @@
 
 (2/19) 6주차 : Neural Network 기초 / 크롤링 
 
-(3/4) 6+주차 : Neural Network 
+(3/4) 6+주차 : Neural Network 구현
 
 (3/11) 7주차 : Neural Network 심화 & 프레임워크 
 
